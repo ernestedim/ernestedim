@@ -5,7 +5,7 @@
 
 - 🔭 This quote “In God we trust, all others bring data” by W. Edwards Deming inspires my data journey
 - 🌱 I am currently learning everything data related. 
-- 🥅 My goals in 2022: Work on at least 50 projects.
+- 🥅 My goals in 2025: Work on at least 20 impactful projects.
 - ⚡ What you should know, I love BI and chess!
 - 😻 I welcome collaboration on data projects.
 
